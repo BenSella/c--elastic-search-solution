@@ -1,0 +1,7 @@
+C:\Development\VisualStudio\ElasticSearchSolution\ElasticSearchSolution\obj\Debug\net8.0\ElasticSearchSolution.csproj.AssemblyReference.cache
+C:\Development\VisualStudio\ElasticSearchSolution\ElasticSearchSolution\obj\Debug\net8.0\ElasticSearchSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\VisualStudio\ElasticSearchSolution\ElasticSearchSolution\obj\Debug\net8.0\ElasticSearchSolution.AssemblyInfoInputs.cache
+C:\Development\VisualStudio\ElasticSearchSolution\ElasticSearchSolution\obj\Debug\net8.0\ElasticSearchSolution.AssemblyInfo.cs
+C:\Development\VisualStudio\ElasticSearchSolution\ElasticSearchSolution\obj\Debug\net8.0\ElasticSearchSolution.csproj.CoreCompileInputs.cache
+C:\Development\VisualStudio\ElasticSearchSolution\ElasticSearchSolution\obj\Debug\net8.0\ElasticSearchSolution.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\VisualStudio\ElasticSearchSolution\ElasticSearchSolution\obj\Debug\net8.0\ElasticSearchSolution.MvcApplicationPartsAssemblyInfo.cache
