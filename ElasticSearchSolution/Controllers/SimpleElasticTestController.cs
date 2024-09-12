@@ -50,5 +50,8 @@ public class ElasticsearchController : ControllerBase
     [HttpGet("search")]
     public async Task<IActionResult> SearchDocuments([FromQuery] string query)
     {
-
-
+        // Search for documents in "my-index" based on the query string
+        var results = await _elasticSearchClient.SearchDocumentsAsync<object>("my-index", query);
+        return Ok(results.Documents);  // Return the search results
+    }
+}
