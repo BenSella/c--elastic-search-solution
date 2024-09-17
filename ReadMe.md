@@ -1,5 +1,5 @@
-# in git hub opne file using Code or Blame, not preview
- # ElasticSearchSolution
+# In gitHub opne file using Code or Blame, not preview
+# ElasticSearchSolution
 
 ## Overview
 
