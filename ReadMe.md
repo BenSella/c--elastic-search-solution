@@ -1,4 +1,4 @@
-# in git hub opne file using code
+# in git hub opne file using Code or Blam, not preview
  # ElasticSearchSolution
 
 ## Overview
