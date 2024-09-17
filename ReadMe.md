@@ -26,7 +26,8 @@ ElasticSearchSolution/
 ├── ElasticSearchSolution.csproj              # The project file containing metadata and dependencies required to build the solution.
 └── README.md                                 # Documentation file providing an overview of the project, setup instructions, and usage guidelines.
 ```bash
-Components Details
+
+# Components Details
 Controller/SimpleElasticTestController.cs:
 
 This controller exposes RESTful API endpoints to interact with Elasticsearch.
