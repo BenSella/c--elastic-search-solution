@@ -25,7 +25,7 @@ ElasticSearchSolution/
 ├── Program.cs                                # The main entry point for the application. It includes the setup for dependency injection, routing, and the health check
 ├── ElasticSearchSolution.csproj              # The project file containing metadata and dependencies required to build the solution.
 └── README.md                                 # Documentation file providing an overview of the project, setup instructions, and usage guidelines.
-
+```bash
 Components Details
 Controller/SimpleElasticTestController.cs:
 
