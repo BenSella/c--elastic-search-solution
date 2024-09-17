@@ -1,4 +1,3 @@
-# In gitHub opne file using Code or Blame, not preview
 # ElasticSearchSolution
 
 ## Overview
