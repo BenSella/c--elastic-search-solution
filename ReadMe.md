@@ -12,9 +12,7 @@ It's an excellent starting point for developers looking to integrate Elasticsear
 for efficient and scalable search functionality.
 
 ## Project Structure
-
-ElasticSearchSolution/
-
+```bash
 ElasticSearchSolution/
 ├── Controller/
 │   └── SimpleElasticTestController.cs        # Contains API endpoints for interacting with Elasticsearch. It provides routes for indexing, retrieving, searching documents
