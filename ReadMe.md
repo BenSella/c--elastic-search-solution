@@ -11,20 +11,6 @@ running and accessible.
 It's an excellent starting point for developers looking to integrate Elasticsearch into their applications 
 for efficient and scalable search functionality.
 
-## Project Structure
-```bash
-ElasticSearchSolution/
-├── Controller/
-│   └── SimpleElasticTestController.cs        # Contains API endpoints for interacting with Elasticsearch. It provides routes for indexing, retrieving, searching documents
-├── HealthTest/
-│   └── ElasticHealthCheck.cs                 # Implements health checks for Elasticsearch. This ensures that the Elasticsearch service is reachable and operational.
-├── Utils/
-│   ├── Interfaces/
-│   │   └── IElasticSearchClient.cs           # Defines the contract for Elasticsearch operations, such as indexing and searching. This interface promotes loose coupling and
-│   └── ElasticSearchClient.cs                # Implements the IElasticSearchClient interface. This class handles the actual interaction with the Elasticsearch APIs
-├── Program.cs                                # The main entry point for the application. It includes the setup for dependency injection, routing, and the health check
-├── ElasticSearchSolution.csproj              # The project file containing metadata and dependencies required to build the solution.
-└── README.md                                 # Documentation file providing an overview of the project, setup instructions, and usage guidelines.
 
 # Components Details
 Controller/SimpleElasticTestController.cs:
@@ -59,3 +45,19 @@ ElasticSearchSolution.csproj:
 
 Defines the project configuration, including dependencies, target frameworks, and build options.
 Lists all the packages required for the project, such as Elastic.Clients.Elasticsearch for Elasticsearch integration.
+
+## Project Structure
+```bash
+ElasticSearchSolution/
+├── Controller/
+│   └── SimpleElasticTestController.cs        # Contains API endpoints for interacting with Elasticsearch. It provides routes for indexing, retrieving, searching documents
+├── HealthTest/
+│   └── ElasticHealthCheck.cs                 # Implements health checks for Elasticsearch. This ensures that the Elasticsearch service is reachable and operational.
+├── Utils/
+│   ├── Interfaces/
+│   │   └── IElasticSearchClient.cs           # Defines the contract for Elasticsearch operations, such as indexing and searching. This interface promotes loose coupling and
+│   └── ElasticSearchClient.cs                # Implements the IElasticSearchClient interface. This class handles the actual interaction with the Elasticsearch APIs
+├── Program.cs                                # The main entry point for the application. It includes the setup for dependency injection, routing, and the health check
+├── ElasticSearchSolution.csproj              # The project file containing metadata and dependencies required to build the solution.
+└── README.md                                 # Documentation file providing an overview of the project, setup instructions, and usage guidelines.
+
